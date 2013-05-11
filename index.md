@@ -35,3 +35,7 @@ The easiest way to join the conversation is via http://webchat.freenode.net/?cha
     - http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
     - http://developers.google.com/edu/python/
     - http://wiki.greptilian.com/podcasts/security-now/design-a-computer
+
+## How to contribute to this website
+
+To contribute to this website, please see http://github.com/wonderstudy/wonderstudy.github.io
