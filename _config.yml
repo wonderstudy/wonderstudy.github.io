@@ -2,3 +2,5 @@ destination: _site
 markdown: rdiscount
 rdiscount:
   extensions: [autolink]
+server: auto
+auto: true
