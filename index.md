@@ -23,7 +23,7 @@ Now imagine study, taking advantage of free content such as
 
 ## Internet Relay Chat (IRC): #wonderstudy on Freenode
 
-Our primary means of communication is a chat room on the Freenode IRC network.
+Our primary means of communication is a chat room on the [Freenode](http://en.wikipedia.org/wiki/Freenode) [IRC](http://en.wikipedia.org/wiki/IRC) network.
 
 http://irclog.greptilian.com/wonderstudy/2013-05-11 contains the first day of logs. http://irclog.greptilian.com/wonderstudy/today shows the latest conversation. Backups of IRC logs are periodically made to http://wonderstudy.github.io/irclog
 
