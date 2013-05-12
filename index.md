@@ -23,7 +23,7 @@ Now imagine study, taking advantage of free content such as
 
 Our primary means of communication is a chat room on the Freenode IRC network.
 
-http://irclog.greptilian.com/wonderstudy/2013-05-11 contains the first day of logs.
+http://irclog.greptilian.com/wonderstudy/2013-05-11 contains the first day of logs. http://irclog.greptilian.com/wonderstudy/today shows the latest conversation. Backups of IRC logs are periodically made to http://wonderstudy.github.io/irclog
 
 The easiest way to join the conversation is via http://webchat.freenode.net/?channels=wonderstudy but desktop IRC clients include [irssi](http://www.irssi.org), [weechat](http://weechat.org), [Pidgin](http://www.pidgin.im), or [Adium](http://adium.im) and mobile IRC clients include [IRC999](http://itunes.apple.com/us/app/irc999/id360698285?mt=8), [Yaaic](http://www.yaaic.org/), or [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en).
 
