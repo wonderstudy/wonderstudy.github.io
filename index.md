@@ -2,6 +2,8 @@
 layout: default
 title: wonderstudy - from wonder to study
 ---
+http://irclog.greptilian.com/wonderstudy/today
+
 ## Introduction
 
 wonderstudy is a community dedicated to wonder and study.
