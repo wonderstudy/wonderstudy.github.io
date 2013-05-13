@@ -18,6 +18,11 @@ Now imagine study, taking advantage of free content such as
     - http://coursera.org
     - http://edx.org
     - http://developers.google.com/edu
+- more links to free online courses to be found at [Wikipedia OpenCourseWare page](http://en.wikipedia.org/wiki/Opencourseware) such as
+    - https://www.khanacademy.org 
+
+- many (some are listed above) are also gathered and summed up at [noexcuselist.com](http://www.noexcuselist.com/everything)
+
 - free recorded talks from conferences
 - free educational podcasts
 
