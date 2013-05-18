@@ -22,6 +22,7 @@ Now imagine study, taking advantage of free content such as
     - https://www.khanacademy.org 
 
 - many (some are listed above) are also gathered and summed up at [noexcuselist.com](http://www.noexcuselist.com/everything)
+- some related to Summer 2013 online courses are listed at [Lifehacker U](http://lifehacker.com/plan-your-free-online-education-at-lifehacker-u-summer-506542454)
 
 - free recorded talks from conferences
 - free educational podcasts
