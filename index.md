@@ -24,7 +24,31 @@ Now imagine study, taking advantage of free content such as
 - many (some are listed above) are also gathered and summed up at [noexcuselist.com](http://www.noexcuselist.com/everything)
 - some related to Summer 2013 online courses are listed at [Lifehacker U](http://lifehacker.com/plan-your-free-online-education-at-lifehacker-u-summer-506542454)
 
-- free recorded talks from conferences
+- free recorded talks from conferences such as
+    - http://pyvideo.org/
+    - http://channel9.msdn.com/
+    - http://www.gdcvault.com/free
+    - NextDayVideo :
+        - http://www.youtube.com/user/NextDayVideo/videos
+        - http://blip.tv/show/708134
+        - http://blip.tv/carlfk
+        - http://blip.tv/linuxconfau
+        - http://blip.tv/pycon-australia
+        - http://blip.tv/pycon-us-videos-2009-2010-2011
+        - http://blip.tv/djangocon
+    - https://www.youtube.com/channel/UCas000yWtwjvFzD2zB9Nzmw
+    - https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
+    - https://www.youtube.com/feed/UCqS2rfqCdJ8fUmw8gvv7puQ
+    - https://www.youtube.com/feed/UCqiATlKPWhEmQXqaZzXcyLQ
+    - https://www.youtube.com/feed/UCG4QMB95FR6Df6XdQwn8gSg
+    - https://www.youtube.com/feed/UCt-N6BZ25OHGoWHzfvlPhOg
+    - https://www.youtube.com/feed/UCgigyhFYBO-trin-NBtJWeQ
+    - https://www.youtube.com/feed/UCJbPGzawDH1njbqV-D5HqKw
+    - https://www.youtube.com/feed/UCDvkWCkt5M0Le4r2_2TSHRA
+    - https://www.youtube.com/feed/UCDvkWCkt5M0Le4r2_2TSHRA
+    - https://vimeo.com/cusec
+    - https://vimeo.com/worrydream
+    - https://vimeo.com/user11261775
 - free educational podcasts
 
 ## Internet Relay Chat (IRC): #wonderstudy on Freenode
