@@ -36,20 +36,22 @@ Now imagine study, taking advantage of free content such as
         - http://blip.tv/pycon-australia
         - http://blip.tv/pycon-us-videos-2009-2010-2011
         - http://blip.tv/djangocon
-    - https://www.youtube.com/channel/UCas000yWtwjvFzD2zB9Nzmw
-    - https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
-    - https://www.youtube.com/feed/UCqS2rfqCdJ8fUmw8gvv7puQ
-    - https://www.youtube.com/feed/UCqiATlKPWhEmQXqaZzXcyLQ
-    - https://www.youtube.com/feed/UCG4QMB95FR6Df6XdQwn8gSg
-    - https://www.youtube.com/feed/UCt-N6BZ25OHGoWHzfvlPhOg
-    - https://www.youtube.com/feed/UCgigyhFYBO-trin-NBtJWeQ
-    - https://www.youtube.com/feed/UCJbPGzawDH1njbqV-D5HqKw
-    - https://www.youtube.com/feed/UCDvkWCkt5M0Le4r2_2TSHRA
-    - https://www.youtube.com/feed/UCDvkWCkt5M0Le4r2_2TSHRA
+    - https://www.youtube.com/user/GoogleDevelopers/videos
+    - https://www.youtube.com/user/GoogleTalksArchive/videos
+    - https://www.youtube.com/user/GameEngineArchitects/videos
+    - https://www.youtube.com/user/CCCen/videos
+    - https://www.youtube.com/user/prqatools/videos
+    - https://www.youtube.com/user/Confreaks/videos
     - https://vimeo.com/cusec
     - https://vimeo.com/worrydream
     - https://vimeo.com/user11261775
 - free educational podcasts
+    - https://www.youtube.com/user/CodingMadeEasy/videos
+    - https://www.youtube.com/user/electricteaching/videos
+    - https://www.youtube.com/user/Reallusion/videos
+    - https://www.youtube.com/user/thenewboston/videos
+    - https://www.youtube.com/user/LighDream/videos
+    - http://gotoandlearn.com/
 
 ## Internet Relay Chat (IRC): #wonderstudy on Freenode
 
