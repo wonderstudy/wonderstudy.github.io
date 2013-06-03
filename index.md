@@ -51,7 +51,13 @@ Now imagine study, taking advantage of free content such as
     - https://www.youtube.com/user/Reallusion/videos
     - https://www.youtube.com/user/thenewboston/videos
     - https://www.youtube.com/user/LighDream/videos
-    - http://gotoandlearn.com/
+    - http://gotoandlearn.com
+- Languages free learning
+    - http://www.unilang.org
+    - http://www.unilang.org/resources.php?mode=language
+    - http://www.unilang.org/resources.php
+    - http://multilingualbooks.com/imgbin/catt-3language.png
+
 
 ## Internet Relay Chat (IRC): #wonderstudy on Freenode
 
