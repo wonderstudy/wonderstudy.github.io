@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wonderstudy - a (failed) experiment, try #free-class on irc.freenode.net instead
+title: wonderstudy - a (failed) experiment, try `#free-class` on irc.freenode.net instead
 ---
 
 # Sorry! wonderstudy was an attempt to build an online community around learning from free classes available on the Internet but it never really got off the ground. The founders recommend checking out #free-class on irc.freenode.net instead: https://sites.google.com/site/onlineeduirc/home . Happy learning! :)
