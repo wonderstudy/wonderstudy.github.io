@@ -1,11 +1,11 @@
 ---
 layout: default
-title: wonderstudy - a (failed) experiment, try `#free-class` on irc.freenode.net instead
+title: wonderstudy - an experimental IRC channel, has been closed, try `#free-class` on irc.freenode.net instead
 ---
 
-# Sorry! wonderstudy was an attempt to build an online community around learning from free classes available on the Internet but it never really got off the ground. The founders recommend checking out #free-class on irc.freenode.net instead: https://sites.google.com/site/onlineeduirc/home . Happy learning! :)
+# Wonderstudy has been an attempt to build an online community around learning from free classes available on the Internet. Realizing that it already existed, it has been decided to close the #wonderstudy chan and point to #free-class (irc.freenode.net) https://sites.google.com/site/onlineeduirc/home . Happy learning! :)
 
-The rest of the page below has been preserved for history:
+Below you will find a compilation of links to places where you can learn from great places such as universities, but not only, all for free (except the exams) if you wish to continue or resume studies:
 
 ---
 
