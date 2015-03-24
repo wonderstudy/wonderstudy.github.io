@@ -11,11 +11,8 @@ Below you will find a compilation of links to places where you can learn from gr
 
 ## Introduction
 
-wonderstudy is a community dedicated to wonder and study.
-
-Imagine a child full of wonder.
-
-Now imagine study, taking advantage of free content such as
+wonderstudy is a community dedicated to wonder and study.Imagine a child full of wonder.
+Now imagine study, taking advantage of free content such as:
 
 - free online courses such as those offered by
     - http://ocw.mit.edu
@@ -64,13 +61,11 @@ Now imagine study, taking advantage of free content such as
     - http://multilingualbooks.com/imgbin/catt-3language.png
 
 
-## Internet Relay Chat (IRC): #wonderstudy on Freenode
+## Internet Relay Chat (IRC): #free-class on Freenode
 
 Our primary means of communication is a chat room on the [Freenode](http://en.wikipedia.org/wiki/Freenode) [IRC](http://en.wikipedia.org/wiki/IRC) network.
 
-http://irclog.greptilian.com/wonderstudy/2013-05-11 contains the first day of logs. http://irclog.greptilian.com/wonderstudy/today shows the latest conversation. Backups of IRC logs are periodically made to http://wonderstudy.github.io/irclog
-
-The easiest way to join the conversation is via http://webchat.freenode.net/?channels=wonderstudy but desktop IRC clients include [XChat](http://xchat.org), [irssi](http://www.irssi.org), [weechat](http://weechat.org), [Pidgin](http://www.pidgin.im), or [Adium](http://adium.im) and mobile IRC clients include [IRC999](http://itunes.apple.com/us/app/irc999/id360698285?mt=8), [Yaaic](http://www.yaaic.org/), or [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en).
+The easiest way to join the conversation is via http://webchat.freenode.net/?channels=free-class but desktop IRC clients include [XChat](http://xchat.org), [irssi](http://www.irssi.org), [weechat](http://weechat.org), [Pidgin](http://www.pidgin.im), or [Adium](http://adium.im) and mobile IRC clients include [IRC999](http://itunes.apple.com/us/app/irc999/id360698285?mt=8), [Yaaic](http://www.yaaic.org/), or [AndChat](https://play.google.com/store/apps/details?id=net.andchat&hl=en).
 
 ## Recommendations
 
