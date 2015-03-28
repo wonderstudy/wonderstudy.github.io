@@ -11,7 +11,7 @@ Below you will find a compilation of links to places where you can learn from gr
 
 ## Introduction
 
-wonderstudy is a community dedicated to wonder and study.Imagine a child full of wonder.
+wonderstudy is a community dedicated to wonder and study. Imagine a child full of wonder.
 Now imagine study, taking advantage of free content such as:
 
 - free online courses such as those offered by
