@@ -20,6 +20,7 @@ Now imagine study, taking advantage of free content such as:
     - http://coursera.org
     - http://edx.org
     - http://developers.google.com/edu
+    - https://mva.microsoft.com/
 - more links to free online courses to be found at [Wikipedia OpenCourseWare page](http://en.wikipedia.org/wiki/Opencourseware) such as
     - https://www.khanacademy.org 
 
@@ -75,6 +76,10 @@ The easiest way to join the conversation is via http://webchat.freenode.net/?cha
     - http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111
     - http://developers.google.com/edu/python/
     - http://wiki.greptilian.com/podcasts/security-now/design-a-computer
+    - http://code.org
+    - https://scratch.mit.edu/
+    - http://scratchx.org/
+    - http://codecombat.com/play
 
 ## How to contribute to this website
 
