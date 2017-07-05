@@ -21,6 +21,7 @@ Now imagine study, taking advantage of free content such as:
     - http://edx.org
     - http://developers.google.com/edu
     - https://mva.microsoft.com/
+    - https://www.fun-mooc.fr (French - En français)
 - more links to free online courses to be found at [Wikipedia OpenCourseWare page](http://en.wikipedia.org/wiki/Opencourseware) such as
     - https://www.khanacademy.org 
 
