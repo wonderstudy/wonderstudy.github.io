@@ -60,8 +60,11 @@ Now imagine study, taking advantage of free content such as:
     - http://www.unilang.org
     - http://www.unilang.org/resources.php?mode=language
     - http://www.unilang.org/resources.php
-    - http://multilingualbooks.com/imgbin/catt-3language.png
-
+    - http://multilingualbooks.com/imgbin/catt-3language.png  
+- Courses in French free of cost or not
+    - https://openclassrooms.com
+    - https://edu.ge.ch/cool/
+    
 
 ## Internet Relay Chat (IRC): #free-class on Freenode
 
