@@ -64,6 +64,7 @@ Now imagine study, taking advantage of free content such as:
 - Courses in French free of cost or not
     - https://openclassrooms.com
     - https://edu.ge.ch/cool/
+    - https://cursus.edu/formations
     
 
 ## Internet Relay Chat (IRC): #free-class on Freenode
